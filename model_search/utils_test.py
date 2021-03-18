@@ -1,4 +1,4 @@
-#msu1
+#msu
 
 # Copyright 2020 Google LLC
 #
